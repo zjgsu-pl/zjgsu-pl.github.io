@@ -1,7 +1,7 @@
 title: 编程语言
 email: hanjianwei@zjgsu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-    本课程介绍了编程语言的历史及特点
+    编程语言的历史及特点
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pl.zjgsu.xyz"
 

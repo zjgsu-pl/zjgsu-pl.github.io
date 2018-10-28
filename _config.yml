@@ -14,6 +14,9 @@ theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
+show_downloads: true
+github:
+  zip_url: /assets/programming.pdf
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
